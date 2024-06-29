@@ -8,6 +8,12 @@ module.exports = {
       lg: '1024px',
       xl: '1440px',
     },
+
+    fontFamily: {
+      'montserrat': 'Montserrat, sans-serif',
+      'poppins': 'Poppins, sans-serif',
+
+    },
     extend: {
       colors: {
         orange: '#FFA500',
@@ -22,7 +28,7 @@ module.exports = {
         white: '#FFFFFF',
         black: '#000000',
         
-      }
+      },
     },
   },
   plugins: [],
